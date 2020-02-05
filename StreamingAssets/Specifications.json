@@ -1,0 +1,53 @@
+{
+    "Specifications": [{ 
+      	"Name" : "Main Crane",
+	"PreviewYAxisRot" : "90",
+	"RiggedObjectName" : "P_Crane_01",
+      	"Features": [{
+         	"Name": "NOV Active Heave Compensated (AHC) Crane",
+		"Detail" : "275.5 tn with 13,123.4 ft / 250 mT with 4000 m working capacity" 
+        	},{
+		"Name" :"Auxiliary hoist",
+		"Detail" :"22.1 tn with 8202.1 ft / 20 mT with 2,500 m working capacity (man rated)"
+		},{
+		"Name" :"New feature one",
+		"Detail" :"22.1 tn with 8202.1 ft / 20 mT with 2,500 m working capacity (man rated)"
+		},{
+		"Name" :"new feature two",
+		"Detail" :"22.1 tn with 8202.1 ft / 20 mT with 2,500 m working capacity (man rated)"
+		}
+		]
+    	},
+	{
+      	"Name" : "Utility Crane",
+	"PreviewYAxisRot" : "90",
+	"RiggedObjectName" : "P_Crane_02",
+      	"Features": [ {
+          	"Name": "1 x auxiliary crane",
+		"Detail" : "44.1 tn / 40 mT single parted"
+          	},{
+		"Name" :"1 x provisioning crane",
+		"Detail" :"1.7 tn / 1.5 mT)"
+		},{
+		"Name" :"2 x ROV cranes",
+		"Detail" :"1.1 tn / 1 mT)"
+		}
+	]},
+{
+      	"Name" : "Helicopter Deck",
+	"PreviewYAxisRot" : "180",
+	"RiggedObjectName" : "P_Floor_05",
+      	"Features": [ {
+          	"Name": "Dimensions",
+		"Detail" : "72.8 ft / 22.2 m"
+          	},{
+		"Name" :"Weight capacity",
+		"Detail" :"13.2 tn / 12 mT in accordance with ABS rules and CAP 437"
+		},{
+		"Name" :"Helicopter size rating",
+		"Detail" :"Sikorsky S-92 and S-61N"
+		}
+	]}
+    
+    ]
+}
